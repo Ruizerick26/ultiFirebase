@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "941078856908",
+    "project_id": "finalk-7ce2d",
+    "storage_bucket": "finalk-7ce2d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:941078856908:android:e108205afdd3a39df22e69",
+        "android_client_info": {
+          "package_name": "com.example.ultifirebase"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCupXKvQIWugtbKyusiuKN5d0ekX1psV1U"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
